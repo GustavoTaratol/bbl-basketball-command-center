@@ -7,6 +7,19 @@ import re
 import json
 import pandas as pd
 
+VALID_POSITIONS = ('PG', 'SG', 'SF', 'PF', 'C')
+
+def position_list(value):
+    """Normalize provider eligibility such as ``PG/SG`` or ``PF, C``."""
+    raw = re.split(r'[/,|;\s-]+', str(value or '').upper())
+    positions = []
+    for item in raw:
+        expanded = ('PG', 'SG') if item == 'G' else ('SF', 'PF') if item == 'F' else VALID_POSITIONS if item in {'GFC', 'UTIL'} else (item,)
+        for position in expanded:
+            if position in VALID_POSITIONS and position not in positions:
+                positions.append(position)
+    return positions
+
 SOURCE = Path('/Users/MSWTeam/Downloads/BBL_Draft_Assistant.xlsx')
 OUTPUT = Path('/Users/MSWTeam/Documents/New project/Deliverables/BBL Draft Assistant/BBL_Draft_Assistant_Offline.html')
 PAGES_OUTPUT = Path(__file__).parent / 'docs' / 'index.html'
@@ -79,7 +92,8 @@ for row in adp_table.to_dict('records'):
     else:
         value = round(max(40, 100 - (float(row['adp']) - 1) * .34), 1)
         playoff = round(min(100, 50 + sum(games) * 2 + low_volume_games * 1.5), 1)
-    players.append({'rank': int(row['rank']), 'name': str(row['name']), 'pos': str(row['pos']), 'team': team, 'adp': float(row['adp']), 'value': value, 'playoff': playoff, 'estimated': False})
+    positions = position_list(prior['pos'] if prior and prior.get('pos') else row['pos'])
+    players.append({'rank': int(row['rank']), 'name': str(row['name']), 'pos': '/'.join(positions), 'positions': positions, 'primaryPos': str(row['pos']), 'team': team, 'adp': float(row['adp']), 'value': value, 'playoff': playoff, 'estimated': False})
 
 # CBS currently publishes only 177 players with a recorded ADP. Extend the
 # draftable pool to 225 with players appearing in CBS's current Top 200 and
@@ -121,7 +135,34 @@ for offset, row in enumerate(deep_table.to_dict('records'), start=178):
     games = schedules.get(team, [False] * 21)
     low_volume_games = sum(1 for i, plays in enumerate(games) if plays and nba_games[i] <= 6)
     adp = float(offset)
-    players.append({'rank': offset, 'name': str(row['name']), 'pos': str(row['pos']), 'team': team, 'adp': adp, 'value': round(max(30, 100 - (adp - 1) * .34), 1), 'playoff': round(min(100, 50 + sum(games) * 2 + low_volume_games * 1.5), 1), 'estimated': True})
+    positions = position_list(row['pos'])
+    players.append({'rank': offset, 'name': str(row['name']), 'pos': '/'.join(positions), 'positions': positions, 'primaryPos': str(row['pos']), 'team': team, 'adp': adp, 'value': round(max(30, 100 - (adp - 1) * .34), 1), 'playoff': round(min(100, 50 + sum(games) * 2 + low_volume_games * 1.5), 1), 'estimated': True})
+
+# Basketball Reference career-position labels are the eligibility source. The
+# synchronization script records both the original G/F/C label and its mapping
+# to the application's PG/SG/SF/PF/C slots.
+eligibility_snapshot = Path(__file__).with_name('basketball_reference_positions.csv')
+if eligibility_snapshot.exists():
+    eligibility_table = pd.read_csv(eligibility_snapshot)
+    eligibility_columns = {re.sub(r'[^a-z]', '', str(c).lower()): c for c in eligibility_table.columns}
+    name_column = eligibility_columns.get('name') or eligibility_columns.get('player')
+    positions_column = eligibility_columns.get('positions') or eligibility_columns.get('position') or eligibility_columns.get('eligibility')
+    if name_column and positions_column:
+        eligibility_by_name = {
+            re.sub(r'[^a-z0-9]', '', str(row[name_column]).lower()): row
+            for row in eligibility_table.to_dict('records')
+        }
+        for player in players:
+            eligibility = eligibility_by_name.get(re.sub(r'[^a-z0-9]', '', player['name'].lower()))
+            if eligibility:
+                positions = position_list(eligibility[positions_column])
+                player['positions'] = positions
+                player['pos'] = '/'.join(positions)
+                player['eligibilitySource'] = 'Basketball Reference'
+                if 'bref_position' in eligibility:
+                    player['brefPosition'] = str(eligibility['bref_position'])
+                if 'bref_id' in eligibility:
+                    player['brefId'] = str(eligibility['bref_id'])
 
 # Rebuild Player Value from CBS season projections and the BBL scoring system.
 # CBS projections omit personal fouls, so PF is conservatively estimated by
@@ -170,7 +211,8 @@ for player in players:
     row = projection_by_name.get(re.sub(r'[^a-z0-9]', '', player['name'].lower()))
     if not row or not row['gp']:
         continue
-    special = row['reb'] if player['pos'] in {'PG','SG'} else row['ast'] if player['pos'] in {'SF','PF'} else row['threepm'] if player['pos'] == 'C' else 0
+    primary_position = player.get('primaryPos') or position_list(player.get('pos'))[0]
+    special = row['reb'] if primary_position in {'PG','SG'} else row['ast'] if primary_position in {'SF','PF'} else row['threepm'] if primary_position == 'C' else 0
     total = (row['ast']*2 + row['blk']*4 + row['fgm']*2 - row['fga'] + row['ftm'] - row['fta'] + row['pts'] + row['stl']*4 - row['turnovers']*2 + row['reb'] + special - pf_per_game.get(player['pos'],2.2)*row['gp'])
     player['bblPpg'] = round(total / row['gp'], 2)
     player['projectionEstimated'] = False
@@ -214,12 +256,12 @@ seed = {
     'nbaGames': nba_games,
     'settings': {
         'teams': int(settings['B2'].value or 10),
-        'format': str(settings['B3'].value or 'Third Round Reversal (3RR)'),
+        'format': 'Standard snake draft',
         'slot': int(settings['B4'].value or 8),
         'rounds': 13,
         'maxActive': int(settings['B6'].value or 5),
         'weights': [float(settings['B7'].value or .7), float(settings['B8'].value or .2), float(settings['B9'].value or .1)],
-        'picks': [8,13,23,38,43,58,63,78,83,98,103,118,123],
+        'picks': [8,13,28,33,48,53,68,73,88,93,108,113,128],
         'source': 'CBS Sports NBA ADP (1–177) with CBS-ranked deep pool estimates (178–225)',
         'sourceUrl': cbs_url,
         'sourceDate': '2026-10-07',
@@ -285,6 +327,7 @@ template = template.replace('</style>', extra_css + '\n</style>')
 template = template.replace('</main>', additions + '\n</main>')
 template = re.sub(r'<script>.*?</script>', lambda _: '<script>\n' + app_js + '\n</script>', template, flags=re.S)
 OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+template = template.replace('10-team • 13 rounds • 3RR', '10-team • 13 rounds • standard snake')
 OUTPUT.write_text(template, encoding='utf-8')
 PAGES_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
 PAGES_OUTPUT.write_text(template, encoding='utf-8')

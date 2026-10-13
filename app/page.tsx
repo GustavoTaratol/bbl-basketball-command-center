@@ -1,15 +1,37 @@
-import type { Metadata } from "next";
-import { SkeletonPreview } from "./_sites-preview/SkeletonPreview";
+"use client";
 
-export const metadata: Metadata = {
-  title: "Your site is taking shape",
-  description:
-    "Your first version will appear here automatically when it’s ready.",
-  other: {
-    "codex-preview": "development",
-  },
-};
+import { useCallback, useEffect, useMemo, useState } from "react";
+type Player={id:string;status:"Starter"|"Reserve";name:string;position:string;team:string};
+type Game={date:string;away:string;home:string;period:number;phase:string};
+type Period={period:number;start:string;end:string;phase:string};
+type Schedule={games:Game[];periods:Period[]};
 
-export default function Home() {
-  return <SkeletonPreview />;
+const seed:Player[]=[["Jaylen Brown","G/F","PHI"],["Josh Hart","G/F","NYK"],["Paul George","G/F","BOS"],["Jalen Green","G","PHX"],["Rudy Gobert","C","MIN"],["Deni Avdija","G/F","POR"],["Fred VanVleet","G","HOU"],["Desmond Bane","G","ORL"],["Cooper Flagg","G/F","DAL"],["Jalen Johnson","F","ATL"],["Norman Powell","G","CHI"],["Jakob Poeltl","C","TOR"],["Alex Sarr","F","WAS"]].map(([name,position,team],i)=>({id:`player-${i+1}`,status:i<5?"Starter":"Reserve",name,position,team})) as Player[];
+const defaults=["F2","G2","F1","G1","C","Bench","Bench","Bench","Bench","Bench","Bench","Bench","Bench"];
+const slots=["G1","G2","F1","F2","C","Bench"],positions=["G","F","C","G/F","G/C","F/C","G/F/C"];
+const teams=["ATL","BKN","BOS","CHA","CHI","CLE","DAL","DEN","DET","GSW","HOU","IND","LAC","LAL","MEM","MIA","MIL","MIN","NOP","NYK","OKC","ORL","PHI","PHX","POR","SAC","SAS","TOR","UTA","WAS"];
+const date=(iso:string)=>new Date(`${iso}T12:00:00`);
+const iso=(d:Date)=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`;
+function dates(start:string,end:string){const out:string[]=[];let d=date(start),last=date(end);while(d<=last){out.push(iso(d));d=new Date(d.getFullYear(),d.getMonth(),d.getDate()+1,12)}return out}
+const fits=(p:string,s:string)=>s==="Bench"||(s.startsWith("G")&&p.includes("G"))||(s.startsWith("F")&&p.includes("F"))||(s==="C"&&p.includes("C"));
+const sorted=(r:Player[])=>[...r].sort((a,b)=>Number(b.status==="Starter")-Number(a.status==="Starter"));
+
+export default function Home(){
+ const[tab,setTab]=useState<"lineup"|"roster"|"draft">("lineup"),[schedule,setSchedule]=useState<Schedule|null>(null),[roster,setRoster]=useState<Player[]>(seed),[lineups,setLineups]=useState<Record<string,string>>({}),[periodIndex,setPeriodIndex]=useState(0),[sync,setSync]=useState<"loading"|"current"|"cached"|"error">("loading"),[updated,setUpdated]=useState("");
+ useEffect(()=>{const r=localStorage.getItem("bbl-roster"),l=localStorage.getItem("bbl-lineups");if(r)setRoster(sorted(JSON.parse(r)));if(l)setLineups(JSON.parse(l));fetch("/schedule.json").then(x=>x.json()).then(setSchedule)},[]);
+ useEffect(()=>localStorage.setItem("bbl-roster",JSON.stringify(roster)),[roster]);useEffect(()=>localStorage.setItem("bbl-lineups",JSON.stringify(lineups)),[lineups]);
+ const period=schedule?.periods[periodIndex],week=useMemo(()=>period?dates(period.start,period.end):[],[period]);
+ const refresh=useCallback(async()=>{if(!period)return;setSync("loading");try{const r=await fetch(`/api/schedule?start=${period.start}&end=${period.end}`,{cache:"no-store"});if(!r.ok)throw 0;const live=await r.json() as{games:Game[];updatedAt:string};setSchedule(s=>s?({...s,games:[...s.games.filter(g=>g.date<period.start||g.date>period.end),...live.games]}):s);setUpdated(live.updatedAt);setSync("current")}catch{setSync(schedule?"cached":"error")}},[period,schedule]);
+ useEffect(()=>{if(period)refresh()},[periodIndex,Boolean(schedule)]);// eslint-disable-line react-hooks/exhaustive-deps
+ const lookup=useMemo(()=>{const m=new Map<string,string>();schedule?.games.forEach(g=>{m.set(`${g.date}|${g.away}`,`@${g.home}`);m.set(`${g.date}|${g.home}`,g.away)});return m},[schedule]);
+ const slot=(d:string,p:Player,i:number)=>lineups[`${d}|${p.id}`]??defaults[i]??"Bench";
+ const setSlot=(d:string,p:Player,s:string)=>setLineups(v=>({...v,[`${d}|${p.id}`]:s}));
+ const edit=(id:string,patch:Partial<Player>)=>setRoster(v=>sorted(v.map(p=>p.id===id?{...p,...patch}:p)));
+ const drop=(id:string)=>{setRoster(v=>v.filter(p=>p.id!==id));setLineups(v=>Object.fromEntries(Object.entries(v).filter(([k])=>!k.endsWith(`|${id}`))))};
+ const add=()=>setRoster(v=>[...v,{id:crypto.randomUUID(),status:"Reserve",name:"New player",position:"G",team:"ATL"}]);
+ const label=period?`Period ${period.period} · ${date(period.start).toLocaleDateString(undefined,{month:"short",day:"numeric"})}–${date(period.end).toLocaleDateString(undefined,{month:"short",day:"numeric"})}`:"Loading schedule";
+ return <main className="app-shell"><header className="topbar"><div className="brand"><div className="brand-mark">BBL</div><div><strong>Basketball Command Center</strong><span>Draft. Manage. Set the week.</span></div></div><nav><button className={tab==="lineup"?"active":""} onClick={()=>setTab("lineup")}>Weekly lineup</button><button className={tab==="roster"?"active":""} onClick={()=>setTab("roster")}>Roster</button><button className={tab==="draft"?"active":""} onClick={()=>setTab("draft")}>Draft assistant</button></nav><div className={`sync ${sync}`}><i/>{sync==="loading"?"Updating…":sync==="current"?"Schedule current":sync==="cached"?"Using cached schedule":"Schedule unavailable"}</div></header>
+ {tab==="lineup"&&<section className="workspace"><div className="workspace-head"><div><span className="eyebrow">Daily roster control</span><h1>{label}</h1><p>Set each day without leaving the week. Opponents refresh automatically.</p></div><div className="week-actions"><button disabled={periodIndex===0} onClick={()=>setPeriodIndex(i=>i-1)}>← Previous</button><select value={periodIndex} onChange={e=>setPeriodIndex(Number(e.target.value))}>{schedule?.periods.map((p,i)=><option key={p.period} value={i}>Period {p.period}{p.period>=22?" · Playoffs":""}</option>)}</select><button disabled={!schedule||periodIndex===schedule.periods.length-1} onClick={()=>setPeriodIndex(i=>i+1)}>Next →</button><button className="refresh" onClick={refresh}>Refresh week</button></div></div>{sync==="cached"&&<div className="notice">Live refresh is temporarily unavailable. The packaged schedule is still active.</div>}<div className="week-board">{week.map(d=>{const count=new Map<string,number>(),dupes=new Set<string>();roster.forEach((p,i)=>{const s=slot(d,p,i);if(s!=="Bench")count.set(s,(count.get(s)||0)+1)});count.forEach((n,s)=>{if(n>1)dupes.add(s)});const games=roster.filter(p=>lookup.has(`${d}|${p.team}`)).length,active=roster.filter((p,i)=>lookup.has(`${d}|${p.team}`)&&slot(d,p,i)!=="Bench").length;return <article className="day-card" key={d}><div className="day-head"><div><span>{date(d).toLocaleDateString(undefined,{weekday:"short"})}</span><strong>{date(d).toLocaleDateString(undefined,{month:"short",day:"numeric"})}</strong></div><div className="day-count"><b>{active}/5</b><small>active</small></div></div><div className="player-list">{roster.map((p,i)=>{const opp=lookup.get(`${d}|${p.team}`)||"—",s=slot(d,p,i);return <div className={`player-row ${opp==="—"?"off":""}`} key={p.id}><div className="player-info"><b>{p.name}</b><span>{p.position} · {opp}</span></div><select className={!fits(p.position,s)||dupes.has(s)?"invalid":""} value={s} onChange={e=>setSlot(d,p,e.target.value)}>{slots.map(x=><option key={x}>{x}</option>)}</select></div>})}</div><footer><span>{games} with games</span><span>{Math.max(0,games-active)} bench games</span></footer></article>})}</div><div className="legend"><span><i className="yellow"/>Editable lineup</span><span><i className="red"/>Duplicate or ineligible</span><span>{updated?`Live check ${new Date(updated).toLocaleString()}`:"Packaged schedule ready"}</span></div></section>}
+ {tab==="roster"&&<section className="workspace roster-workspace"><div className="workspace-head"><div><span className="eyebrow">Transaction desk</span><h1>Roster management</h1><p>Add, drop, trade, or change status. Starters automatically move to the top.</p></div><button className="primary" onClick={add}>+ Add player</button></div><div className="roster-table"><div className="roster-header"><span>Status</span><span>Player</span><span>Position</span><span>NBA team</span><span/></div>{roster.map(p=><div className="roster-edit-row" key={p.id}><select value={p.status} onChange={e=>edit(p.id,{status:e.target.value as Player["status"]})}><option>Starter</option><option>Reserve</option></select><input value={p.name} onChange={e=>edit(p.id,{name:e.target.value})}/><select value={p.position} onChange={e=>edit(p.id,{position:e.target.value})}>{positions.map(x=><option key={x}>{x}</option>)}</select><select value={p.team} onChange={e=>edit(p.id,{team:e.target.value})}>{teams.map(x=><option key={x}>{x}</option>)}</select><button className="danger" onClick={()=>drop(p.id)}>Drop</button></div>)}</div><p className="save-note">Changes save automatically on this device and update every week immediately.</p></section>}
+ {tab==="draft"&&<section className="draft-workspace"><iframe title="BBL Draft Assistant" src="/draft.html"/></section>}</main>
 }

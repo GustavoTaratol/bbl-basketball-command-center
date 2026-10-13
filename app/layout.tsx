@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Starter Project",
-  description: "A clean starting point for building your site.",
+  title: "BBL Basketball Command Center",
+  description: "Fantasy basketball draft, roster, schedule, and daily lineup platform.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

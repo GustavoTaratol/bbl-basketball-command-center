@@ -19,10 +19,34 @@ Pages. Configure Pages to deploy from the `main` branch and `/docs` folder.
 
 - 10 teams
 - 13 rounds
-- Third Round Reversal (3RR)
+- Standard snake draft
 - Daily starters: 1 G, 1 F, 1 C, and 2 G/F/C flex
 - 8 bench spots
 - Draft position can be changed from Settings
+- Multi-position eligibility is supported (`PG/SG`, `SF/PF`, `PF/C`, etc.)
+
+## Mock drafts
+
+New drafts open in **Mock draft** mode. Choose your slot in Settings, then use
+**Simulate to my pick** to let the computer make every opponent selection. At
+your turn, draft any available player or use **Auto-draft best**. Opponent picks
+use a weighted lottery within a plausible market tier. Proximity to the current
+pick carries the most weight, with smaller adjustments for BBL value, available
+position groups, and players falling past market expectation. Repeated mocks
+remain different without producing implausible early-round reaches.
+
+Choose **Live draft assistant** in Settings when following a real draft and
+recording opponent selections manually.
+
+Click a player's orange position label to correct or add eligibility. CSV
+imports accept a `Positions`, `Position`, or `Pos` column with slash-, comma-,
+or space-separated values.
+
+Position eligibility comes from the Basketball Reference player directory.
+Its career labels (`G`, `F`, `G-F`, `F-C`, and `C`) are mapped to the app's
+specific slots (`G → PG/SG`, `F → SF/PF`). Run `python3
+sync_bref_positions.py` to refresh the checked-in snapshot. Settings can also
+import a replacement CSV with `Name` and `Positions` columns.
 
 ## Offline application source
 
@@ -50,6 +74,13 @@ Run:
 
 ```bash
 python3 build_offline.py
+```
+
+When the workbook is unavailable but the embedded player data already exists,
+refresh the checked-in standalone page after JavaScript or CSS changes with:
+
+```bash
+npm run build:offline
 ```
 
 The checked-in CBS snapshots allow the embedded player pool to be rebuilt

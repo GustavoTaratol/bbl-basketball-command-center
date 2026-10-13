@@ -1,0 +1,8154 @@
+{
+  "source": "Basketball-Reference 2026-27 NBA schedule",
+  "source_url": "https://www.basketball-reference.com/leagues/NBA_2027_games.html",
+  "period_rule": "Period 1 is Oct 20-25; later periods run Monday-Sunday; fantasy playoffs are Periods 22-24.",
+  "periods": [
+    {
+      "period": 1,
+      "start": "2026-10-20",
+      "end": "2026-10-25",
+      "phase": "Regular season"
+    },
+    {
+      "period": 2,
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "phase": "Regular season"
+    },
+    {
+      "period": 3,
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "phase": "Regular season"
+    },
+    {
+      "period": 4,
+      "start": "2026-11-09",
+      "end": "2026-11-15",
+      "phase": "Regular season"
+    },
+    {
+      "period": 5,
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "phase": "Regular season"
+    },
+    {
+      "period": 6,
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "phase": "Regular season"
+    },
+    {
+      "period": 7,
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "phase": "Regular season"
+    },
+    {
+      "period": 8,
+      "start": "2026-12-07",
+      "end": "2026-12-13",
+      "phase": "Regular season"
+    },
+    {
+      "period": 9,
+      "start": "2026-12-14",
+      "end": "2026-12-20",
+      "phase": "Regular season"
+    },
+    {
+      "period": 10,
+      "start": "2026-12-21",
+      "end": "2026-12-27",
+      "phase": "Regular season"
+    },
+    {
+      "period": 11,
+      "start": "2026-12-28",
+      "end": "2027-01-03",
+      "phase": "Regular season"
+    },
+    {
+      "period": 12,
+      "start": "2027-01-04",
+      "end": "2027-01-10",
+      "phase": "Regular season"
+    },
+    {
+      "period": 13,
+      "start": "2027-01-11",
+      "end": "2027-01-17",
+      "phase": "Regular season"
+    },
+    {
+      "period": 14,
+      "start": "2027-01-18",
+      "end": "2027-01-24",
+      "phase": "Regular season"
+    },
+    {
+      "period": 15,
+      "start": "2027-01-25",
+      "end": "2027-01-31",
+      "phase": "Regular season"
+    },
+    {
+      "period": 16,
+      "start": "2027-02-01",
+      "end": "2027-02-07",
+      "phase": "Regular season"
+    },
+    {
+      "period": 17,
+      "start": "2027-02-08",
+      "end": "2027-02-14",
+      "phase": "Regular season"
+    },
+    {
+      "period": 18,
+      "start": "2027-02-15",
+      "end": "2027-02-21",
+      "phase": "Regular season"
+    },
+    {
+      "period": 19,
+      "start": "2027-02-22",
+      "end": "2027-02-28",
+      "phase": "Regular season"
+    },
+    {
+      "period": 20,
+      "start": "2027-03-01",
+      "end": "2027-03-07",
+      "phase": "Regular season"
+    },
+    {
+      "period": 21,
+      "start": "2027-03-08",
+      "end": "2027-03-14",
+      "phase": "Regular season"
+    },
+    {
+      "period": 22,
+      "start": "2027-03-15",
+      "end": "2027-03-21",
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "period": 23,
+      "start": "2027-03-22",
+      "end": "2027-03-28",
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "period": 24,
+      "start": "2027-03-29",
+      "end": "2027-04-04",
+      "phase": "Fantasy playoffs"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-20",
+      "away": "BOS",
+      "home": "DET",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "OKC",
+      "home": "SAS",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "PHI",
+      "home": "NYK",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "ATL",
+      "home": "ORL",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "CHA",
+      "home": "BKN",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "CHI",
+      "home": "TOR",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "DAL",
+      "home": "HOU",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "GSW",
+      "home": "LAL",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "IND",
+      "home": "NOP",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "MIL",
+      "home": "WAS",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "MIN",
+      "home": "MIA",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "PHX",
+      "home": "POR",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "SAC",
+      "home": "LAC",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "UTA",
+      "home": "MEM",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "CLE",
+      "home": "PHI",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "DEN",
+      "home": "OKC",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "ATL",
+      "home": "CHA",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "CHI",
+      "home": "MIL",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "DAL",
+      "home": "IND",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "DET",
+      "home": "MIA",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "HOU",
+      "home": "SAS",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "LAC",
+      "home": "LAL",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "MEM",
+      "home": "GSW",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "MIN",
+      "home": "ORL",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "NOP",
+      "home": "UTA",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "NYK",
+      "home": "BOS",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "POR",
+      "home": "SAC",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "TOR",
+      "home": "WAS",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "BKN",
+      "home": "CLE",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "GSW",
+      "home": "PHX",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "HOU",
+      "home": "ATL",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "MIA",
+      "home": "CHA",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "MIL",
+      "home": "PHI",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "NOP",
+      "home": "DEN",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "SAS",
+      "home": "DAL",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "WAS",
+      "home": "CHI",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "DET",
+      "home": "PHI",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "IND",
+      "home": "BKN",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "LAC",
+      "home": "OKC",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "LAL",
+      "home": "UTA",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "MEM",
+      "home": "SAC",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "ORL",
+      "home": "NYK",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "TOR",
+      "home": "MIN",
+      "period": 1,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "ATL",
+      "home": "HOU",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "CHI",
+      "home": "BOS",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "DAL",
+      "home": "MIA",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "GSW",
+      "home": "DEN",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "IND",
+      "home": "MIL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "MEM",
+      "home": "UTA",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "MIN",
+      "home": "CLE",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "PHX",
+      "home": "OKC",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "WAS",
+      "home": "CHA",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "BKN",
+      "home": "BOS",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "DET",
+      "home": "NYK",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "POR",
+      "home": "LAL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "SAC",
+      "home": "SAS",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "CHA",
+      "home": "DET",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "DEN",
+      "home": "NOP",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "GSW",
+      "home": "MIN",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "HOU",
+      "home": "MIL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "LAL",
+      "home": "LAC",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "MIA",
+      "home": "ATL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "NYK",
+      "home": "CHI",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "OKC",
+      "home": "DAL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "ORL",
+      "home": "TOR",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "PHI",
+      "home": "IND",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "SAS",
+      "home": "UTA",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "WAS",
+      "home": "CLE",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "CLE",
+      "home": "ATL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "MEM",
+      "home": "POR",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "SAC",
+      "home": "NOP",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "CHA",
+      "home": "WAS",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "CHI",
+      "home": "BOS",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "DEN",
+      "home": "PHX",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "DET",
+      "home": "BKN",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "HOU",
+      "home": "DAL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "IND",
+      "home": "MIA",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "LAC",
+      "home": "MIN",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "LAL",
+      "home": "GSW",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "NYK",
+      "home": "PHI",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "ORL",
+      "home": "TOR",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "ATL",
+      "home": "NOP",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "CLE",
+      "home": "MIL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "MIN",
+      "home": "SAS",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "OKC",
+      "home": "HOU",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "PHI",
+      "home": "CHA",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "POR",
+      "home": "UTA",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "SAC",
+      "home": "MEM",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "BKN",
+      "home": "IND",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "BOS",
+      "home": "ORL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "LAC",
+      "home": "GSW",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "TOR",
+      "home": "LAL",
+      "period": 2,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "ATL",
+      "home": "IND",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "BKN",
+      "home": "NYK",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "BOS",
+      "home": "HOU",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "CHI",
+      "home": "PHI",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "DET",
+      "home": "CHA",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "MIA",
+      "home": "LAL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "MIL",
+      "home": "MIN",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "NOP",
+      "home": "MEM",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "OKC",
+      "home": "CLE",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "PHX",
+      "home": "GSW",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "POR",
+      "home": "DEN",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "SAC",
+      "home": "DAL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "TOR",
+      "home": "LAC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "UTA",
+      "home": "SAS",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "WAS",
+      "home": "ORL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "ATL",
+      "home": "WAS",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "CHA",
+      "home": "BKN",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "CHI",
+      "home": "NYK",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "CLE",
+      "home": "OKC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "DAL",
+      "home": "SAS",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "IND",
+      "home": "MEM",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "LAL",
+      "home": "SAC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "MIA",
+      "home": "LAC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "MIL",
+      "home": "BOS",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "MIN",
+      "home": "HOU",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "PHI",
+      "home": "DET",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "POR",
+      "home": "PHX",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "TOR",
+      "home": "DEN",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "UTA",
+      "home": "NOP",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "MIA",
+      "home": "GSW",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "ORL",
+      "home": "PHX",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "BOS",
+      "home": "CHA",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "MIN",
+      "home": "NOP",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "OKC",
+      "home": "MEM",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "PHI",
+      "home": "CLE",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "POR",
+      "home": "LAL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "SAS",
+      "home": "SAC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "TOR",
+      "home": "MIL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "UTA",
+      "home": "DAL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "WAS",
+      "home": "ATL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "BKN",
+      "home": "ATL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "DEN",
+      "home": "IND",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "HOU",
+      "home": "PHX",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "NYK",
+      "home": "CLE",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "ORL",
+      "home": "GSW",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "SAS",
+      "home": "POR",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "WAS",
+      "home": "OKC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "BKN",
+      "home": "DAL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "BOS",
+      "home": "MIL",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "LAL",
+      "home": "DET",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "MIA",
+      "home": "SAC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "NOP",
+      "home": "LAC",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "PHI",
+      "home": "CHI",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "UTA",
+      "home": "MIN",
+      "period": 3,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "CLE",
+      "home": "CHA",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "DEN",
+      "home": "HOU",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "IND",
+      "home": "DAL",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "LAL",
+      "home": "ATL",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "MEM",
+      "home": "TOR",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "NOP",
+      "home": "GSW",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "SAS",
+      "home": "PHX",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "WAS",
+      "home": "DET",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "BOS",
+      "home": "PHI",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "LAC",
+      "home": "PHX",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "MIA",
+      "home": "UTA",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "MIL",
+      "home": "NYK",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "OKC",
+      "home": "POR",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "ORL",
+      "home": "SAC",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "BKN",
+      "home": "NOP",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "BOS",
+      "home": "TOR",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "CLE",
+      "home": "NYK",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "DEN",
+      "home": "MEM",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "GSW",
+      "home": "HOU",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "LAL",
+      "home": "MIL",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "OKC",
+      "home": "POR",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "ORL",
+      "home": "UTA",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "SAS",
+      "home": "CHI",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "WAS",
+      "home": "IND",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "CHA",
+      "home": "PHX",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "DAL",
+      "home": "MIN",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "DET",
+      "home": "WAS",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "TOR",
+      "home": "PHI",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "ATL",
+      "home": "CHI",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "CLE",
+      "home": "MIA",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "GSW",
+      "home": "SAS",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "MEM",
+      "home": "NOP",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "MIL",
+      "home": "ORL",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "NYK",
+      "home": "IND",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "OKC",
+      "home": "LAC",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "POR",
+      "home": "SAC",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "UTA",
+      "home": "HOU",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "BKN",
+      "home": "MEM",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "CHI",
+      "home": "MIN",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "DAL",
+      "home": "CLE",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "DEN",
+      "home": "NOP",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "DET",
+      "home": "MIA",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "ATL",
+      "home": "MIL",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "CHA",
+      "home": "LAC",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "DAL",
+      "home": "BOS",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "HOU",
+      "home": "WAS",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "IND",
+      "home": "PHI",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "LAL",
+      "home": "PHX",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "NYK",
+      "home": "TOR",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "OKC",
+      "home": "SAC",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "SAS",
+      "home": "UTA",
+      "period": 4,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "CHI",
+      "home": "CLE",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "GSW",
+      "home": "NOP",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "HOU",
+      "home": "MIA",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "MEM",
+      "home": "WAS",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "ORL",
+      "home": "BOS",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "PHI",
+      "home": "BKN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "PHX",
+      "home": "DEN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "POR",
+      "home": "MIN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "CHA",
+      "home": "LAL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "DET",
+      "home": "SAS",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "NYK",
+      "home": "TOR",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "POR",
+      "home": "MIN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "UTA",
+      "home": "LAC",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "ATL",
+      "home": "OKC",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "BOS",
+      "home": "DEN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "CHI",
+      "home": "BKN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "DET",
+      "home": "NOP",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "GSW",
+      "home": "DAL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "HOU",
+      "home": "IND",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "MEM",
+      "home": "CLE",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "MIL",
+      "home": "MIA",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "PHI",
+      "home": "ORL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "PHX",
+      "home": "SAC",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "UTA",
+      "home": "LAL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "WAS",
+      "home": "TOR",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-19",
+      "away": "GSW",
+      "home": "MEM",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-19",
+      "away": "LAC",
+      "home": "SAS",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-19",
+      "away": "NYK",
+      "home": "MIN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-19",
+      "away": "POR",
+      "home": "MIL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "CHA",
+      "home": "ATL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "HOU",
+      "home": "DEN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "IND",
+      "home": "CLE",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "NOP",
+      "home": "OKC",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "ORL",
+      "home": "BKN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "PHX",
+      "home": "UTA",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "SAC",
+      "home": "LAL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "TOR",
+      "home": "DET",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-20",
+      "away": "WAS",
+      "home": "CHI",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-21",
+      "away": "BOS",
+      "home": "SAC",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-21",
+      "away": "LAC",
+      "home": "DAL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-21",
+      "away": "MEM",
+      "home": "MIN",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-21",
+      "away": "MIL",
+      "home": "PHI",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-21",
+      "away": "NOP",
+      "home": "SAS",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-21",
+      "away": "POR",
+      "home": "NYK",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-22",
+      "away": "BOS",
+      "home": "GSW",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-22",
+      "away": "DAL",
+      "home": "UTA",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-22",
+      "away": "DEN",
+      "home": "CHI",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-22",
+      "away": "DET",
+      "home": "ATL",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-22",
+      "away": "IND",
+      "home": "NYK",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-22",
+      "away": "OKC",
+      "home": "MIA",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-22",
+      "away": "ORL",
+      "home": "WAS",
+      "period": 5,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "BKN",
+      "home": "MIN",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "CLE",
+      "home": "CHI",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "LAC",
+      "home": "HOU",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "MEM",
+      "home": "CHA",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "MIL",
+      "home": "TOR",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "OKC",
+      "home": "IND",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "PHX",
+      "home": "NOP",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "POR",
+      "home": "PHI",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "SAS",
+      "home": "SAC",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-23",
+      "away": "UTA",
+      "home": "LAL",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-24",
+      "away": "BOS",
+      "home": "WAS",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-24",
+      "away": "DAL",
+      "home": "DEN",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-24",
+      "away": "DET",
+      "home": "ORL",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "BKN",
+      "home": "MIL",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "CHI",
+      "home": "CHA",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "CLE",
+      "home": "NYK",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "LAC",
+      "home": "MEM",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "MIA",
+      "home": "PHI",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "MIN",
+      "home": "OKC",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "PHX",
+      "home": "HOU",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "SAC",
+      "home": "GSW",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-25",
+      "away": "SAS",
+      "home": "POR",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "ATL",
+      "home": "BOS",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "BKN",
+      "home": "TOR",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "DAL",
+      "home": "PHX",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "DEN",
+      "home": "UTA",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "GSW",
+      "home": "POR",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "LAL",
+      "home": "SAS",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "MEM",
+      "home": "MIN",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "MIA",
+      "home": "NYK",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "MIL",
+      "home": "DET",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "NOP",
+      "home": "LAC",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-27",
+      "away": "PHI",
+      "home": "IND",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-28",
+      "away": "BKN",
+      "home": "CHA",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-28",
+      "away": "IND",
+      "home": "CHI",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-28",
+      "away": "OKC",
+      "home": "MIL",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-28",
+      "away": "ORL",
+      "home": "WAS",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-28",
+      "away": "PHI",
+      "home": "HOU",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "ATL",
+      "home": "NYK",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "BOS",
+      "home": "SAS",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "DEN",
+      "home": "TOR",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "LAC",
+      "home": "GSW",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "LAL",
+      "home": "MEM",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "MIA",
+      "home": "CLE",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "MIN",
+      "home": "SAC",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "NOP",
+      "home": "POR",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "ORL",
+      "home": "DET",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-29",
+      "away": "PHX",
+      "home": "UTA",
+      "period": 6,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-30",
+      "away": "BOS",
+      "home": "DAL",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-30",
+      "away": "DEN",
+      "home": "DET",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-30",
+      "away": "LAL",
+      "home": "HOU",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-30",
+      "away": "NOP",
+      "home": "SAC",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-30",
+      "away": "OKC",
+      "home": "BKN",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-30",
+      "away": "SAS",
+      "home": "MIL",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-11-30",
+      "away": "WAS",
+      "home": "CHA",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "ATL",
+      "home": "MIA",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "IND",
+      "home": "CLE",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "LAC",
+      "home": "PHX",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "MEM",
+      "home": "PHI",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "MIN",
+      "home": "POR",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "NYK",
+      "home": "CHI",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "TOR",
+      "home": "HOU",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-01",
+      "away": "UTA",
+      "home": "GSW",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "BKN",
+      "home": "OKC",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "CHA",
+      "home": "BOS",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "DEN",
+      "home": "PHI",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "LAL",
+      "home": "NOP",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "MEM",
+      "home": "DET",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "MIN",
+      "home": "LAC",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "NYK",
+      "home": "MIL",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "ORL",
+      "home": "DAL",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-02",
+      "away": "SAC",
+      "home": "PHX",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-03",
+      "away": "CLE",
+      "home": "CHI",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-03",
+      "away": "IND",
+      "home": "ATL",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-03",
+      "away": "TOR",
+      "home": "SAS",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-03",
+      "away": "UTA",
+      "home": "POR",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-03",
+      "away": "WAS",
+      "home": "MIA",
+      "period": 7,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "ATL",
+      "home": "POR",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "CHA",
+      "home": "WAS",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "DEN",
+      "home": "UTA",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "GSW",
+      "home": "CLE",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "MIL",
+      "home": "MEM",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "MIN",
+      "home": "PHX",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "NYK",
+      "home": "MIA",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-12",
+      "away": "ORL",
+      "home": "PHI",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-13",
+      "away": "BOS",
+      "home": "BKN",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-13",
+      "away": "DET",
+      "home": "IND",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-13",
+      "away": "HOU",
+      "home": "CHI",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-13",
+      "away": "LAC",
+      "home": "SAS",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-13",
+      "away": "NOP",
+      "home": "SAC",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-13",
+      "away": "TOR",
+      "home": "OKC",
+      "period": 8,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "ATL",
+      "home": "PHX",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "BKN",
+      "home": "DET",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "GSW",
+      "home": "MEM",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "MIA",
+      "home": "CHI",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "MIL",
+      "home": "DAL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "MIN",
+      "home": "UTA",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "NOP",
+      "home": "LAL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "NYK",
+      "home": "HOU",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "PHI",
+      "home": "ORL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "TOR",
+      "home": "CHA",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-14",
+      "away": "WAS",
+      "home": "BOS",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-15",
+      "away": "DEN",
+      "home": "POR",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-15",
+      "away": "SAS",
+      "home": "CLE",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "CLE",
+      "home": "ORL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "DAL",
+      "home": "BKN",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "GSW",
+      "home": "IND",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "LAC",
+      "home": "CHA",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "LAL",
+      "home": "MIN",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "MIA",
+      "home": "MEM",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "MIL",
+      "home": "HOU",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "NYK",
+      "home": "NOP",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "PHX",
+      "home": "DET",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "SAC",
+      "home": "OKC",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "SAS",
+      "home": "TOR",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "UTA",
+      "home": "CHI",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-16",
+      "away": "WAS",
+      "home": "BOS",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-17",
+      "away": "ATL",
+      "home": "DEN",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-17",
+      "away": "DAL",
+      "home": "PHI",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-17",
+      "away": "POR",
+      "home": "IND",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "CHI",
+      "home": "SAS",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "CLE",
+      "home": "DET",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "GSW",
+      "home": "TOR",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "HOU",
+      "home": "MEM",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "LAC",
+      "home": "MIA",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "LAL",
+      "home": "MIN",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "NYK",
+      "home": "WAS",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "OKC",
+      "home": "CHA",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "ORL",
+      "home": "BKN",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "PHX",
+      "home": "MIL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "SAC",
+      "home": "NOP",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-18",
+      "away": "UTA",
+      "home": "BOS",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-19",
+      "away": "CHI",
+      "home": "DAL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-19",
+      "away": "LAL",
+      "home": "DEN",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-19",
+      "away": "ORL",
+      "home": "ATL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-19",
+      "away": "POR",
+      "home": "CHA",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "DET",
+      "home": "BOS",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "GSW",
+      "home": "MIL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "HOU",
+      "home": "TOR",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "IND",
+      "home": "LAC",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "OKC",
+      "home": "ATL",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "PHX",
+      "home": "MEM",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "SAC",
+      "home": "MIA",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "SAS",
+      "home": "NOP",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "UTA",
+      "home": "CLE",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-20",
+      "away": "WAS",
+      "home": "BKN",
+      "period": 9,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "CHI",
+      "home": "MIA",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "DEN",
+      "home": "LAC",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "IND",
+      "home": "LAL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "MEM",
+      "home": "NOP",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "MIL",
+      "home": "SAS",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "NYK",
+      "home": "CLE",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "PHI",
+      "home": "CHA",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "PHX",
+      "home": "MIN",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "POR",
+      "home": "BKN",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-21",
+      "away": "SAC",
+      "home": "ORL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-22",
+      "away": "DAL",
+      "home": "GSW",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-22",
+      "away": "DET",
+      "home": "OKC",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-22",
+      "away": "TOR",
+      "home": "WAS",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "CHA",
+      "home": "ORL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "CHI",
+      "home": "MIA",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "CLE",
+      "home": "WAS",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "DAL",
+      "home": "SAC",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "DEN",
+      "home": "LAL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "DET",
+      "home": "ATL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "GSW",
+      "home": "LAC",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "HOU",
+      "home": "PHI",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "IND",
+      "home": "PHX",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "MIN",
+      "home": "MIL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "OKC",
+      "home": "NOP",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "POR",
+      "home": "BOS",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "SAS",
+      "home": "BKN",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "TOR",
+      "home": "MEM",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-23",
+      "away": "UTA",
+      "home": "NYK",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-25",
+      "away": "DEN",
+      "home": "GSW",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-25",
+      "away": "MIA",
+      "home": "BOS",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-25",
+      "away": "OKC",
+      "home": "MIN",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-25",
+      "away": "PHI",
+      "home": "LAL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-25",
+      "away": "SAS",
+      "home": "NYK",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "CHA",
+      "home": "ATL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "DET",
+      "home": "CHI",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "IND",
+      "home": "UTA",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "MEM",
+      "home": "LAC",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "NOP",
+      "home": "BKN",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "PHX",
+      "home": "DAL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "POR",
+      "home": "WAS",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-26",
+      "away": "TOR",
+      "home": "ORL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "ATL",
+      "home": "SAS",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "BKN",
+      "home": "NYK",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "CHA",
+      "home": "MIA",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "IND",
+      "home": "DEN",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "MEM",
+      "home": "LAL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "MIL",
+      "home": "ORL",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "MIN",
+      "home": "GSW",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "OKC",
+      "home": "HOU",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "PHI",
+      "home": "LAC",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "POR",
+      "home": "DET",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "UTA",
+      "home": "SAC",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-27",
+      "away": "WAS",
+      "home": "CLE",
+      "period": 10,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-28",
+      "away": "CLE",
+      "home": "BOS",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-28",
+      "away": "GSW",
+      "home": "PHX",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-28",
+      "away": "MIN",
+      "home": "DEN",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-28",
+      "away": "NOP",
+      "home": "TOR",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "BKN",
+      "home": "POR",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "CHI",
+      "home": "ATL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "HOU",
+      "home": "LAL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "LAC",
+      "home": "IND",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "MIA",
+      "home": "DAL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "MIL",
+      "home": "OKC",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "ORL",
+      "home": "CHA",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "PHI",
+      "home": "SAC",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-29",
+      "away": "SAS",
+      "home": "MEM",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-30",
+      "away": "BOS",
+      "home": "CHI",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-30",
+      "away": "HOU",
+      "home": "GSW",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-30",
+      "away": "NOP",
+      "home": "DET",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-30",
+      "away": "NYK",
+      "home": "UTA",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-30",
+      "away": "PHI",
+      "home": "PHX",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-30",
+      "away": "WAS",
+      "home": "TOR",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "BKN",
+      "home": "SAC",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "DEN",
+      "home": "MIN",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "LAC",
+      "home": "CLE",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "LAL",
+      "home": "NOP",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "MIA",
+      "home": "OKC",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "MIL",
+      "home": "ATL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "NYK",
+      "home": "PHX",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "ORL",
+      "home": "IND",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2026-12-31",
+      "away": "SAS",
+      "home": "CHA",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-01",
+      "away": "BOS",
+      "home": "UTA",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-01",
+      "away": "DAL",
+      "home": "HOU",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-01",
+      "away": "LAC",
+      "home": "TOR",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-01",
+      "away": "ORL",
+      "home": "DET",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-01",
+      "away": "PHI",
+      "home": "MIL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-01",
+      "away": "SAS",
+      "home": "WAS",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "BKN",
+      "home": "GSW",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "BOS",
+      "home": "POR",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "CLE",
+      "home": "CHA",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "DAL",
+      "home": "ATL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "LAL",
+      "home": "CHI",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "MIA",
+      "home": "NOP",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "MIN",
+      "home": "IND",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "NYK",
+      "home": "DEN",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "SAC",
+      "home": "PHX",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-02",
+      "away": "UTA",
+      "home": "OKC",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "CHA",
+      "home": "MIL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "CLE",
+      "home": "HOU",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "DET",
+      "home": "DEN",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "LAC",
+      "home": "WAS",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "LAL",
+      "home": "TOR",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "MEM",
+      "home": "ORL",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "SAC",
+      "home": "OKC",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-03",
+      "away": "SAS",
+      "home": "MIN",
+      "period": 11,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-04",
+      "away": "ATL",
+      "home": "PHI",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-04",
+      "away": "BKN",
+      "home": "UTA",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-04",
+      "away": "BOS",
+      "home": "PHX",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-04",
+      "away": "CHI",
+      "home": "IND",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-04",
+      "away": "DAL",
+      "home": "NOP",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-04",
+      "away": "NYK",
+      "home": "POR",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "ATL",
+      "home": "CHA",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "DET",
+      "home": "SAC",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "LAC",
+      "home": "ORL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "LAL",
+      "home": "WAS",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "MEM",
+      "home": "MIA",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "MIL",
+      "home": "CHI",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "MIN",
+      "home": "HOU",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "PHX",
+      "home": "DEN",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-05",
+      "away": "TOR",
+      "home": "CLE",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-06",
+      "away": "IND",
+      "home": "SAS",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-06",
+      "away": "NYK",
+      "home": "GSW",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-06",
+      "away": "OKC",
+      "home": "PHI",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-06",
+      "away": "POR",
+      "home": "NOP",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-06",
+      "away": "UTA",
+      "home": "BKN",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "BOS",
+      "home": "LAL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "CHI",
+      "home": "SAC",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "CLE",
+      "home": "ORL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "DEN",
+      "home": "CHA",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "DET",
+      "home": "GSW",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "IND",
+      "home": "ATL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "LAC",
+      "home": "MIL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "MEM",
+      "home": "HOU",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "MIA",
+      "home": "BKN",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "MIN",
+      "home": "TOR",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "OKC",
+      "home": "WAS",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-07",
+      "away": "POR",
+      "home": "DAL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "DET",
+      "home": "LAL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "MEM",
+      "home": "SAS",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "MIA",
+      "home": "PHI",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "MIN",
+      "home": "WAS",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "NYK",
+      "home": "SAC",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "ORL",
+      "home": "NOP",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "PHX",
+      "home": "DAL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-08",
+      "away": "UTA",
+      "home": "TOR",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-09",
+      "away": "BOS",
+      "home": "LAC",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-09",
+      "away": "CHA",
+      "home": "POR",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-09",
+      "away": "CHI",
+      "home": "GSW",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-09",
+      "away": "DEN",
+      "home": "CLE",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-09",
+      "away": "HOU",
+      "home": "BKN",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-09",
+      "away": "MIL",
+      "home": "IND",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "CHA",
+      "home": "SAC",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "CHI",
+      "home": "PHX",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "DAL",
+      "home": "MEM",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "NOP",
+      "home": "MIA",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "OKC",
+      "home": "ORL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "PHI",
+      "home": "TOR",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "SAS",
+      "home": "ATL",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-10",
+      "away": "UTA",
+      "home": "DET",
+      "period": 12,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-11",
+      "away": "ATL",
+      "home": "WAS",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-11",
+      "away": "BKN",
+      "home": "IND",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-11",
+      "away": "CLE",
+      "home": "MIN",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-11",
+      "away": "DEN",
+      "home": "NYK",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-11",
+      "away": "HOU",
+      "home": "BOS",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-11",
+      "away": "LAL",
+      "home": "LAC",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "BKN",
+      "home": "MIA",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "CHI",
+      "home": "UTA",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "DAL",
+      "home": "MEM",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "DEN",
+      "home": "MIL",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "DET",
+      "home": "TOR",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "ORL",
+      "home": "POR",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "SAC",
+      "home": "GSW",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-12",
+      "away": "WAS",
+      "home": "PHI",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-13",
+      "away": "CHA",
+      "home": "GSW",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-13",
+      "away": "CLE",
+      "home": "ATL",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-13",
+      "away": "HOU",
+      "home": "OKC",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-13",
+      "away": "LAL",
+      "home": "POR",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-13",
+      "away": "MIL",
+      "home": "IND",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-13",
+      "away": "NYK",
+      "home": "BOS",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-13",
+      "away": "PHX",
+      "home": "TOR",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "BKN",
+      "home": "PHI",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "CHA",
+      "home": "UTA",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "DAL",
+      "home": "DET",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "LAC",
+      "home": "SAC",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "MEM",
+      "home": "DEN",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "MIA",
+      "home": "NYK",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "MIN",
+      "home": "CHI",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "NOP",
+      "home": "SAS",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-14",
+      "away": "ORL",
+      "home": "LAL",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "CLE",
+      "home": "MIL",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "GSW",
+      "home": "ATL",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "MIA",
+      "home": "TOR",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "ORL",
+      "home": "LAC",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "PHX",
+      "home": "IND",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "SAC",
+      "home": "POR",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "UTA",
+      "home": "OKC",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-15",
+      "away": "WAS",
+      "home": "HOU",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-16",
+      "away": "BKN",
+      "home": "BOS",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-16",
+      "away": "CHA",
+      "home": "DEN",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-16",
+      "away": "CLE",
+      "home": "MEM",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-16",
+      "away": "DAL",
+      "home": "NYK",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-16",
+      "away": "DET",
+      "home": "HOU",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-16",
+      "away": "MIN",
+      "home": "PHI",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "GSW",
+      "home": "MIA",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "IND",
+      "home": "WAS",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "MIL",
+      "home": "LAL",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "ORL",
+      "home": "DEN",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "POR",
+      "home": "OKC",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "SAC",
+      "home": "UTA",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "SAS",
+      "home": "NOP",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-17",
+      "away": "TOR",
+      "home": "CHI",
+      "period": 13,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-18",
+      "away": "BOS",
+      "home": "WAS",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-18",
+      "away": "DET",
+      "home": "CLE",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-18",
+      "away": "HOU",
+      "home": "MEM",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-18",
+      "away": "MIN",
+      "home": "NYK",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-18",
+      "away": "OKC",
+      "home": "DAL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-18",
+      "away": "PHI",
+      "home": "ATL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-18",
+      "away": "PHX",
+      "home": "LAC",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-19",
+      "away": "CHA",
+      "home": "DAL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-19",
+      "away": "CHI",
+      "home": "TOR",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-19",
+      "away": "GSW",
+      "home": "ORL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-19",
+      "away": "IND",
+      "home": "PHI",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-19",
+      "away": "LAL",
+      "home": "SAC",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-19",
+      "away": "POR",
+      "home": "MIA",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-19",
+      "away": "UTA",
+      "home": "DEN",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "CHI",
+      "home": "BKN",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "HOU",
+      "home": "MIN",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "IND",
+      "home": "BOS",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "LAC",
+      "home": "UTA",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "MEM",
+      "home": "PHX",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "MIA",
+      "home": "SAS",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "MIL",
+      "home": "SAC",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "OKC",
+      "home": "NOP",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "POR",
+      "home": "ATL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-20",
+      "away": "TOR",
+      "home": "NYK",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-21",
+      "away": "CLE",
+      "home": "BKN",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-21",
+      "away": "LAL",
+      "home": "GSW",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-21",
+      "away": "PHI",
+      "home": "BOS",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-21",
+      "away": "WAS",
+      "home": "DEN",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "DAL",
+      "home": "NOP",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "HOU",
+      "home": "CHA",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "IND",
+      "home": "DET",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "MEM",
+      "home": "OKC",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "MIL",
+      "home": "GSW",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "MIN",
+      "home": "SAS",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "NYK",
+      "home": "ATL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "POR",
+      "home": "ORL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "SAC",
+      "home": "LAL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "UTA",
+      "home": "PHX",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-22",
+      "away": "WAS",
+      "home": "LAC",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-23",
+      "away": "ATL",
+      "home": "MIA",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-23",
+      "away": "CHA",
+      "home": "BOS",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-23",
+      "away": "CLE",
+      "home": "DAL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-23",
+      "away": "MIL",
+      "home": "DEN",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-23",
+      "away": "PHI",
+      "home": "CHI",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-23",
+      "away": "TOR",
+      "home": "BKN",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-24",
+      "away": "HOU",
+      "home": "ORL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-24",
+      "away": "LAC",
+      "home": "NYK",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-24",
+      "away": "MIN",
+      "home": "DET",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-24",
+      "away": "OKC",
+      "home": "GSW",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-24",
+      "away": "POR",
+      "home": "SAS",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-24",
+      "away": "UTA",
+      "home": "PHX",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-24",
+      "away": "WAS",
+      "home": "LAL",
+      "period": 14,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "CLE",
+      "home": "NOP",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "DAL",
+      "home": "CHI",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "LAC",
+      "home": "PHI",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "MIA",
+      "home": "BKN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "MIN",
+      "home": "MEM",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "ORL",
+      "home": "CHA",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "SAC",
+      "home": "DEN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-25",
+      "away": "TOR",
+      "home": "BOS",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-26",
+      "away": "ATL",
+      "home": "DET",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-26",
+      "away": "CHI",
+      "home": "IND",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-26",
+      "away": "HOU",
+      "home": "SAS",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-26",
+      "away": "MIL",
+      "home": "UTA",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-26",
+      "away": "OKC",
+      "home": "LAL",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-26",
+      "away": "PHX",
+      "home": "NYK",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-26",
+      "away": "WAS",
+      "home": "POR",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "CHA",
+      "home": "SAS",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "DAL",
+      "home": "TOR",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "DEN",
+      "home": "MIN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "DET",
+      "home": "CLE",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "GSW",
+      "home": "POR",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "LAC",
+      "home": "BOS",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "NOP",
+      "home": "HOU",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "PHX",
+      "home": "BKN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-27",
+      "away": "SAC",
+      "home": "PHI",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "ATL",
+      "home": "NYK",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "CHI",
+      "home": "ORL",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "GSW",
+      "home": "UTA",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "LAL",
+      "home": "IND",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "MEM",
+      "home": "OKC",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "MIA",
+      "home": "MIL",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "PHI",
+      "home": "NOP",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-28",
+      "away": "SAC",
+      "home": "WAS",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-29",
+      "away": "CHA",
+      "home": "MIN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-29",
+      "away": "CLE",
+      "home": "TOR",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-29",
+      "away": "DET",
+      "home": "DAL",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-29",
+      "away": "LAC",
+      "home": "BKN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-29",
+      "away": "ORL",
+      "home": "HOU",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-29",
+      "away": "PHX",
+      "home": "BOS",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "ATL",
+      "home": "MIL",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "DEN",
+      "home": "OKC",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "LAL",
+      "home": "NYK",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "MEM",
+      "home": "UTA",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "NOP",
+      "home": "CLE",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "PHI",
+      "home": "MIA",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "SAS",
+      "home": "GSW",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-30",
+      "away": "WAS",
+      "home": "IND",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "BKN",
+      "home": "ORL",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "BOS",
+      "home": "TOR",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "CHI",
+      "home": "OKC",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "HOU",
+      "home": "DAL",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "LAL",
+      "home": "CHA",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "PHX",
+      "home": "MIN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "POR",
+      "home": "DEN",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-01-31",
+      "away": "SAC",
+      "home": "DET",
+      "period": 15,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-01",
+      "away": "CLE",
+      "home": "UTA",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-01",
+      "away": "MEM",
+      "home": "MIL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-01",
+      "away": "MIA",
+      "home": "IND",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-01",
+      "away": "NOP",
+      "home": "PHI",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-01",
+      "away": "NYK",
+      "home": "BKN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-01",
+      "away": "SAS",
+      "home": "GSW",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-01",
+      "away": "WAS",
+      "home": "ATL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "CHA",
+      "home": "MIA",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "CHI",
+      "home": "DET",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "LAL",
+      "home": "BOS",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "MIN",
+      "home": "POR",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "NOP",
+      "home": "ORL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "OKC",
+      "home": "DEN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "SAS",
+      "home": "LAC",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-02",
+      "away": "TOR",
+      "home": "DAL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-03",
+      "away": "ATL",
+      "home": "IND",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-03",
+      "away": "CLE",
+      "home": "PHX",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-03",
+      "away": "GSW",
+      "home": "LAC",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-03",
+      "away": "NYK",
+      "home": "DET",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-03",
+      "away": "PHI",
+      "home": "MEM",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-03",
+      "away": "UTA",
+      "home": "HOU",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "BOS",
+      "home": "CHA",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "CLE",
+      "home": "POR",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "DAL",
+      "home": "DEN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "LAL",
+      "home": "BKN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "MIL",
+      "home": "MIA",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "MIN",
+      "home": "SAC",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "NOP",
+      "home": "WAS",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "OKC",
+      "home": "CHI",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "ORL",
+      "home": "SAS",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-04",
+      "away": "TOR",
+      "home": "NYK",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-05",
+      "away": "BOS",
+      "home": "ATL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-05",
+      "away": "DET",
+      "home": "PHI",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-05",
+      "away": "GSW",
+      "home": "CHA",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-05",
+      "away": "HOU",
+      "home": "PHX",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-05",
+      "away": "IND",
+      "home": "OKC",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-05",
+      "away": "LAC",
+      "home": "DEN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "LAL",
+      "home": "SAS",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "MIA",
+      "home": "MIN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "MIL",
+      "home": "TOR",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "NOP",
+      "home": "CHI",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "ORL",
+      "home": "CLE",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "PHX",
+      "home": "SAC",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "POR",
+      "home": "MEM",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "UTA",
+      "home": "DAL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-06",
+      "away": "WAS",
+      "home": "BKN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "BOS",
+      "home": "PHI",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "CHA",
+      "home": "TOR",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "DEN",
+      "home": "ATL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "GSW",
+      "home": "DET",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "HOU",
+      "home": "SAC",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "LAC",
+      "home": "DAL",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "NYK",
+      "home": "OKC",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-07",
+      "away": "UTA",
+      "home": "MIN",
+      "period": 16,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-08",
+      "away": "BKN",
+      "home": "PHI",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-08",
+      "away": "CHI",
+      "home": "WAS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-08",
+      "away": "LAL",
+      "home": "PHX",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-08",
+      "away": "MIA",
+      "home": "ATL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-08",
+      "away": "NOP",
+      "home": "IND",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-08",
+      "away": "ORL",
+      "home": "MIL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-08",
+      "away": "POR",
+      "home": "MEM",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "CHA",
+      "home": "NYK",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "DEN",
+      "home": "BOS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "DET",
+      "home": "LAC",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "GSW",
+      "home": "CHI",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "HOU",
+      "home": "UTA",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "MIN",
+      "home": "BKN",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "POR",
+      "home": "OKC",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "SAC",
+      "home": "MIL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "SAS",
+      "home": "DAL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-09",
+      "away": "TOR",
+      "home": "CLE",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-10",
+      "away": "CLE",
+      "home": "IND",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-10",
+      "away": "DET",
+      "home": "PHX",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-10",
+      "away": "GSW",
+      "home": "BOS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-10",
+      "away": "LAC",
+      "home": "LAL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-10",
+      "away": "MIA",
+      "home": "WAS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-10",
+      "away": "NOP",
+      "home": "ATL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-10",
+      "away": "ORL",
+      "home": "MEM",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-11",
+      "away": "CHI",
+      "home": "DEN",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-11",
+      "away": "MIL",
+      "home": "CHA",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-11",
+      "away": "NYK",
+      "home": "PHI",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-11",
+      "away": "POR",
+      "home": "DAL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-11",
+      "away": "SAC",
+      "home": "HOU",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-11",
+      "away": "SAS",
+      "home": "OKC",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-11",
+      "away": "UTA",
+      "home": "IND",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "BKN",
+      "home": "WAS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "CLE",
+      "home": "TOR",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "DEN",
+      "home": "LAL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "HOU",
+      "home": "NOP",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "LAC",
+      "home": "MEM",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "MIA",
+      "home": "ORL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "MIN",
+      "home": "BOS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-12",
+      "away": "PHX",
+      "home": "ATL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-13",
+      "away": "DAL",
+      "home": "CHA",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-13",
+      "away": "DET",
+      "home": "POR",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-13",
+      "away": "GSW",
+      "home": "NYK",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-13",
+      "away": "MIL",
+      "home": "WAS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-13",
+      "away": "PHI",
+      "home": "OKC",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-13",
+      "away": "SAC",
+      "home": "IND",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-13",
+      "away": "SAS",
+      "home": "ORL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-14",
+      "away": "BKN",
+      "home": "MIA",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-14",
+      "away": "CHI",
+      "home": "POR",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-14",
+      "away": "DEN",
+      "home": "HOU",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-14",
+      "away": "LAC",
+      "home": "NOP",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-14",
+      "away": "PHX",
+      "home": "CLE",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-14",
+      "away": "SAC",
+      "home": "ATL",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-14",
+      "away": "TOR",
+      "home": "BOS",
+      "period": 17,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "DET",
+      "home": "UTA",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "IND",
+      "home": "GSW",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "MIN",
+      "home": "CHA",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "NYK",
+      "home": "MEM",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "ORL",
+      "home": "OKC",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "PHI",
+      "home": "DAL",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "PHX",
+      "home": "WAS",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-15",
+      "away": "SAS",
+      "home": "MIA",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-16",
+      "away": "CHI",
+      "home": "LAL",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-16",
+      "away": "HOU",
+      "home": "LAC",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-16",
+      "away": "MIL",
+      "home": "CLE",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-16",
+      "away": "NOP",
+      "home": "POR",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-16",
+      "away": "TOR",
+      "home": "ATL",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "ATL",
+      "home": "BKN",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "BOS",
+      "home": "OKC",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "CHI",
+      "home": "LAC",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "DAL",
+      "home": "ORL",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "IND",
+      "home": "SAC",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "MIA",
+      "home": "WAS",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "MIL",
+      "home": "CLE",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "NOP",
+      "home": "GSW",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "NYK",
+      "home": "DET",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "PHX",
+      "home": "PHI",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "SAS",
+      "home": "MEM",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "TOR",
+      "home": "CHA",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-17",
+      "away": "UTA",
+      "home": "DEN",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-18",
+      "away": "BOS",
+      "home": "MEM",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-18",
+      "away": "HOU",
+      "home": "LAL",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-18",
+      "away": "IND",
+      "home": "POR",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-18",
+      "away": "SAS",
+      "home": "MIN",
+      "period": 18,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "ATL",
+      "home": "CHI",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "CHA",
+      "home": "ORL",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "DAL",
+      "home": "GSW",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "MIA",
+      "home": "DET",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "OKC",
+      "home": "NYK",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "PHI",
+      "home": "BKN",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "PHX",
+      "home": "NOP",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "SAC",
+      "home": "CLE",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "UTA",
+      "home": "LAC",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-25",
+      "away": "WAS",
+      "home": "MIL",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-26",
+      "away": "ATL",
+      "home": "TOR",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-26",
+      "away": "CHA",
+      "home": "HOU",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-26",
+      "away": "CLE",
+      "home": "BOS",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-26",
+      "away": "DAL",
+      "home": "POR",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-26",
+      "away": "IND",
+      "home": "MIN",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-26",
+      "away": "LAL",
+      "home": "DEN",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-26",
+      "away": "MEM",
+      "home": "SAS",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-27",
+      "away": "BKN",
+      "home": "CHI",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-27",
+      "away": "NOP",
+      "home": "PHX",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-27",
+      "away": "OKC",
+      "home": "DET",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-27",
+      "away": "PHI",
+      "home": "NYK",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-27",
+      "away": "SAC",
+      "home": "MEM",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-27",
+      "away": "WAS",
+      "home": "UTA",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "ATL",
+      "home": "ORL",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "BOS",
+      "home": "MIN",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "DEN",
+      "home": "SAS",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "LAL",
+      "home": "DAL",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "MIA",
+      "home": "HOU",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "MIL",
+      "home": "NYK",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "POR",
+      "home": "LAC",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "SAC",
+      "home": "CHA",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-02-28",
+      "away": "TOR",
+      "home": "IND",
+      "period": 19,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-01",
+      "away": "BKN",
+      "home": "DEN",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-01",
+      "away": "CHI",
+      "home": "DET",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-01",
+      "away": "GSW",
+      "home": "HOU",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-01",
+      "away": "PHI",
+      "home": "CLE",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-01",
+      "away": "UTA",
+      "home": "NOP",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-01",
+      "away": "WAS",
+      "home": "PHX",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "BOS",
+      "home": "IND",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "DET",
+      "home": "MIL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "GSW",
+      "home": "DAL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "LAC",
+      "home": "POR",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "LAL",
+      "home": "ORL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "MEM",
+      "home": "NYK",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "MIN",
+      "home": "OKC",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "TOR",
+      "home": "MIA",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-02",
+      "away": "WAS",
+      "home": "SAC",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-03",
+      "away": "BKN",
+      "home": "PHX",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-03",
+      "away": "CHA",
+      "home": "PHI",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-03",
+      "away": "CHI",
+      "home": "ATL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-03",
+      "away": "NOP",
+      "home": "HOU",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-03",
+      "away": "SAS",
+      "home": "DEN",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-03",
+      "away": "TOR",
+      "home": "MIA",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-03",
+      "away": "UTA",
+      "home": "MIL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "BKN",
+      "home": "LAC",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "IND",
+      "home": "ORL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "LAL",
+      "home": "PHI",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "MEM",
+      "home": "ATL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "NYK",
+      "home": "DAL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "OKC",
+      "home": "SAC",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "POR",
+      "home": "CLE",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-04",
+      "away": "WAS",
+      "home": "GSW",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-05",
+      "away": "BOS",
+      "home": "DET",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-05",
+      "away": "MIL",
+      "home": "NOP",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-05",
+      "away": "MIN",
+      "home": "PHX",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-05",
+      "away": "POR",
+      "home": "TOR",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-05",
+      "away": "SAS",
+      "home": "HOU",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-05",
+      "away": "UTA",
+      "home": "ORL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-06",
+      "away": "ATL",
+      "home": "CLE",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-06",
+      "away": "CHA",
+      "home": "CHI",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-06",
+      "away": "IND",
+      "home": "MIA",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-06",
+      "away": "LAC",
+      "home": "SAC",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-06",
+      "away": "NOP",
+      "home": "MEM",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-06",
+      "away": "OKC",
+      "home": "LAL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-06",
+      "away": "UTA",
+      "home": "WAS",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-07",
+      "away": "BKN",
+      "home": "LAL",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-07",
+      "away": "HOU",
+      "home": "GSW",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-07",
+      "away": "MIN",
+      "home": "DEN",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-07",
+      "away": "NYK",
+      "home": "SAS",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-07",
+      "away": "PHI",
+      "home": "BOS",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-07",
+      "away": "POR",
+      "home": "CHI",
+      "period": 20,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "ATL",
+      "home": "MEM",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "CHA",
+      "home": "IND",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "DAL",
+      "home": "OKC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "DEN",
+      "home": "SAC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "HOU",
+      "home": "LAC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "NOP",
+      "home": "MIN",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "PHX",
+      "home": "MIA",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-08",
+      "away": "UTA",
+      "home": "PHI",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-09",
+      "away": "BOS",
+      "home": "CHI",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-09",
+      "away": "CLE",
+      "home": "DET",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-09",
+      "away": "MEM",
+      "home": "DAL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-09",
+      "away": "MIL",
+      "home": "BKN",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-09",
+      "away": "PHX",
+      "home": "ORL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-09",
+      "away": "POR",
+      "home": "GSW",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-09",
+      "away": "WAS",
+      "home": "SAS",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "ATL",
+      "home": "MIN",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "DEN",
+      "home": "POR",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "GSW",
+      "home": "SAC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "HOU",
+      "home": "UTA",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "NOP",
+      "home": "CHA",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "NYK",
+      "home": "LAC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "OKC",
+      "home": "TOR",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-10",
+      "away": "ORL",
+      "home": "MIA",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "BKN",
+      "home": "ATL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "CLE",
+      "home": "LAC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "IND",
+      "home": "CHA",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "MEM",
+      "home": "BOS",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "MIL",
+      "home": "DET",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "NYK",
+      "home": "LAL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "PHI",
+      "home": "SAS",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "PHX",
+      "home": "CHI",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-11",
+      "away": "WAS",
+      "home": "DAL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-12",
+      "away": "CLE",
+      "home": "LAL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-12",
+      "away": "GSW",
+      "home": "DEN",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-12",
+      "away": "MIA",
+      "home": "MIL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-12",
+      "away": "OKC",
+      "home": "BOS",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-12",
+      "away": "SAC",
+      "home": "UTA",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-12",
+      "away": "TOR",
+      "home": "NOP",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "BKN",
+      "home": "DET",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "IND",
+      "home": "HOU",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "LAC",
+      "home": "POR",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "MEM",
+      "home": "CHI",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "NOP",
+      "home": "DAL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "ORL",
+      "home": "ATL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "PHI",
+      "home": "MIN",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-13",
+      "away": "PHX",
+      "home": "CHA",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-14",
+      "away": "BOS",
+      "home": "NYK",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-14",
+      "away": "CLE",
+      "home": "SAC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-14",
+      "away": "DET",
+      "home": "TOR",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-14",
+      "away": "GSW",
+      "home": "LAL",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-14",
+      "away": "MIA",
+      "home": "DEN",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-14",
+      "away": "SAS",
+      "home": "OKC",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-14",
+      "away": "WAS",
+      "home": "MIN",
+      "period": 21,
+      "phase": "Regular season"
+    },
+    {
+      "date": "2027-03-15",
+      "away": "ATL",
+      "home": "DAL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-15",
+      "away": "IND",
+      "home": "BKN",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-15",
+      "away": "ORL",
+      "home": "CHI",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-15",
+      "away": "PHX",
+      "home": "MEM",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-15",
+      "away": "TOR",
+      "home": "PHI",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "CHA",
+      "home": "OKC",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "CLE",
+      "home": "GSW",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "DEN",
+      "home": "LAC",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "DET",
+      "home": "IND",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "LAL",
+      "home": "POR",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "MIN",
+      "home": "NOP",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "NYK",
+      "home": "WAS",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "ORL",
+      "home": "MIL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "SAC",
+      "home": "BOS",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-16",
+      "away": "SAS",
+      "home": "HOU",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "ATL",
+      "home": "UTA",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "BKN",
+      "home": "HOU",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "CHI",
+      "home": "PHI",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "DAL",
+      "home": "OKC",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "MEM",
+      "home": "GSW",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "MIA",
+      "home": "POR",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "PHX",
+      "home": "LAL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-17",
+      "away": "SAC",
+      "home": "NYK",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "BKN",
+      "home": "SAS",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "CHA",
+      "home": "NOP",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "CLE",
+      "home": "DEN",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "DET",
+      "home": "MIL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "MEM",
+      "home": "LAC",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "MIN",
+      "home": "UTA",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "ORL",
+      "home": "BOS",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "PHI",
+      "home": "WAS",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-18",
+      "away": "TOR",
+      "home": "IND",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-19",
+      "away": "ATL",
+      "home": "LAL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-19",
+      "away": "DAL",
+      "home": "SAS",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-19",
+      "away": "HOU",
+      "home": "NOP",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-19",
+      "away": "MIA",
+      "home": "PHX",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-19",
+      "away": "POR",
+      "home": "GSW",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-19",
+      "away": "SAC",
+      "home": "TOR",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-20",
+      "away": "ATL",
+      "home": "LAC",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-20",
+      "away": "CHA",
+      "home": "DET",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-20",
+      "away": "CHI",
+      "home": "CLE",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-20",
+      "away": "DEN",
+      "home": "ORL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-20",
+      "away": "IND",
+      "home": "MIL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-20",
+      "away": "OKC",
+      "home": "MEM",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-20",
+      "away": "WAS",
+      "home": "NYK",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-21",
+      "away": "DAL",
+      "home": "LAL",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-21",
+      "away": "DEN",
+      "home": "MIA",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-21",
+      "away": "NOP",
+      "home": "BOS",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-21",
+      "away": "POR",
+      "home": "PHX",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-21",
+      "away": "SAC",
+      "home": "BKN",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-21",
+      "away": "SAS",
+      "home": "PHI",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-21",
+      "away": "TOR",
+      "home": "UTA",
+      "period": 22,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "ATL",
+      "home": "GSW",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "CHA",
+      "home": "MEM",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "DAL",
+      "home": "LAC",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "DET",
+      "home": "MIN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "HOU",
+      "home": "CLE",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "IND",
+      "home": "ORL",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "SAC",
+      "home": "CHI",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-22",
+      "away": "WAS",
+      "home": "MIL",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-23",
+      "away": "BOS",
+      "home": "BKN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-23",
+      "away": "LAL",
+      "home": "MIA",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-23",
+      "away": "NOP",
+      "home": "NYK",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-23",
+      "away": "OKC",
+      "home": "PHX",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-23",
+      "away": "PHI",
+      "home": "UTA",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-23",
+      "away": "TOR",
+      "home": "POR",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "ATL",
+      "home": "SAC",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "DAL",
+      "home": "MIN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "DEN",
+      "home": "WAS",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "DET",
+      "home": "CHA",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "HOU",
+      "home": "NYK",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "MEM",
+      "home": "IND",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "MIL",
+      "home": "LAC",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "OKC",
+      "home": "PHX",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "ORL",
+      "home": "CHI",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "PHI",
+      "home": "GSW",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-24",
+      "away": "SAS",
+      "home": "BOS",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-25",
+      "away": "CHI",
+      "home": "MEM",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-25",
+      "away": "DEN",
+      "home": "BKN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-25",
+      "away": "HOU",
+      "home": "DET",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-25",
+      "away": "LAL",
+      "home": "CLE",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-25",
+      "away": "SAS",
+      "home": "IND",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-25",
+      "away": "TOR",
+      "home": "GSW",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-25",
+      "away": "UTA",
+      "home": "MIA",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-26",
+      "away": "LAC",
+      "home": "OKC",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-26",
+      "away": "MIL",
+      "home": "PHX",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-26",
+      "away": "NOP",
+      "home": "DAL",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-26",
+      "away": "NYK",
+      "home": "CHA",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-26",
+      "away": "ORL",
+      "home": "MIN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-26",
+      "away": "PHI",
+      "home": "POR",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-27",
+      "away": "BOS",
+      "home": "MIA",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-27",
+      "away": "GSW",
+      "home": "WAS",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-27",
+      "away": "LAC",
+      "home": "CHI",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-27",
+      "away": "MIL",
+      "home": "POR",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-27",
+      "away": "SAS",
+      "home": "DET",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-27",
+      "away": "TOR",
+      "home": "SAC",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-27",
+      "away": "UTA",
+      "home": "ATL",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "BOS",
+      "home": "NOP",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "DAL",
+      "home": "WAS",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "LAL",
+      "home": "HOU",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "MEM",
+      "home": "BKN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "NYK",
+      "home": "ORL",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "OKC",
+      "home": "MIN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "PHI",
+      "home": "DEN",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "TOR",
+      "home": "PHX",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-28",
+      "away": "UTA",
+      "home": "CHA",
+      "period": 23,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "DAL",
+      "home": "MIL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "DEN",
+      "home": "SAC",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "GSW",
+      "home": "BKN",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "IND",
+      "home": "CHI",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "LAC",
+      "home": "DET",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "MIA",
+      "home": "CLE",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "MIN",
+      "home": "ATL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-29",
+      "away": "PHX",
+      "home": "SAS",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-30",
+      "away": "BOS",
+      "home": "IND",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-30",
+      "away": "HOU",
+      "home": "POR",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-30",
+      "away": "LAL",
+      "home": "MEM",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-30",
+      "away": "MIA",
+      "home": "CHA",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-30",
+      "away": "NYK",
+      "home": "ORL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-30",
+      "away": "OKC",
+      "home": "UTA",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "CHI",
+      "home": "WAS",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "CLE",
+      "home": "BKN",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "DEN",
+      "home": "DAL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "GSW",
+      "home": "PHI",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "HOU",
+      "home": "POR",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "LAC",
+      "home": "ATL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "NOP",
+      "home": "MIL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "PHX",
+      "home": "SAS",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "SAC",
+      "home": "MIN",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-03-31",
+      "away": "TOR",
+      "home": "DET",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-01",
+      "away": "BOS",
+      "home": "CLE",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-01",
+      "away": "CHA",
+      "home": "NYK",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-01",
+      "away": "LAL",
+      "home": "OKC",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-01",
+      "away": "ORL",
+      "home": "IND",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "ATL",
+      "home": "TOR",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "CHA",
+      "home": "MIL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "DEN",
+      "home": "PHX",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "DET",
+      "home": "CHI",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "GSW",
+      "home": "MIN",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "MEM",
+      "home": "HOU",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "MIA",
+      "home": "BOS",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "NYK",
+      "home": "BKN",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "PHI",
+      "home": "WAS",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "SAC",
+      "home": "DAL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "SAS",
+      "home": "LAC",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-02",
+      "away": "UTA",
+      "home": "POR",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-03",
+      "away": "NOP",
+      "home": "OKC",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-03",
+      "away": "WAS",
+      "home": "ORL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "ATL",
+      "home": "PHI",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "BKN",
+      "home": "MIL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "BOS",
+      "home": "NYK",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "CHA",
+      "home": "CLE",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "CHI",
+      "home": "HOU",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "GSW",
+      "home": "SAC",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "IND",
+      "home": "TOR",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "MEM",
+      "home": "DEN",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "MIA",
+      "home": "DET",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "MIN",
+      "home": "DAL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "PHX",
+      "home": "LAC",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "POR",
+      "home": "UTA",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    },
+    {
+      "date": "2027-04-04",
+      "away": "SAS",
+      "home": "LAL",
+      "period": 24,
+      "phase": "Fantasy playoffs"
+    }
+  ]
+}
