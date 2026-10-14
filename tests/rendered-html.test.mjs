@@ -51,9 +51,13 @@ test("includes roster, lineup, persistence, and live schedule logic", async () =
   assert.match(page, /draggable/);
   assert.match(page, /CBS eligibility is enforced/);
   assert.match(page, /is not CBS-eligible/);
+  assert.match(page, /America\/Edmonton/);
+  assert.match(page, /teamColors/);
+  assert.match(page, /team-card/);
   assert.match(page, /\/api\/schedule\?start=/);
   assert.match(page, /src="\/draft\.html"/);
   assert.match(route, /site\.api\.espn\.com/);
+  assert.match(route, /startTime:e\.date/);
   assert.match(route, /s-maxage=21600/);
   assert.match(layout, /title:\s*"BBL Basketball Command Center"/);
   const parsed = JSON.parse(schedule);
