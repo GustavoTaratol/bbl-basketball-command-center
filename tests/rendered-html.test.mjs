@@ -47,7 +47,10 @@ test("includes roster, lineup, persistence, and live schedule logic", async () =
   assert.match(page, /localStorage\.setItem\("bbl-roster"/);
   assert.match(page, /localStorage\.setItem\("bbl-lineups"/);
   assert.match(page, /G\/F\/C/);
-  assert.match(page, /Starters automatically move to the top/);
+  assert.match(page, /Starters move to the top/);
+  assert.match(page, /draggable/);
+  assert.match(page, /CBS eligibility is enforced/);
+  assert.match(page, /is not CBS-eligible/);
   assert.match(page, /\/api\/schedule\?start=/);
   assert.match(page, /src="\/draft\.html"/);
   assert.match(route, /site\.api\.espn\.com/);
