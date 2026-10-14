@@ -54,6 +54,8 @@ test("includes roster, lineup, persistence, and live schedule logic", async () =
   assert.match(page, /America\/Edmonton/);
   assert.match(page, /teamColors/);
   assert.match(page, /team-card/);
+  assert.match(page, /pending:Player\[\]/);
+  assert.match(page, /dragSource\.current/);
   assert.match(page, /\/api\/schedule\?start=/);
   assert.match(page, /src="\/draft\.html"/);
   assert.match(route, /site\.api\.espn\.com/);
